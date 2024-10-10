@@ -1,0 +1,69 @@
+A portfolio website
+separate sections for programming, web design and eventually engineering
+a way to visualise my code projects both as code and as finished products from within the site
+a design representative of who i am i.e. space themed duh
+on design, using css/java to make site responsive and interactive
+home page - planets? mouseover ad they get bigger. click and it zooms in to allow you to select each project individually(satelites/moons) or click the planet for all the projects. All leads to same place (see below)
+sun is about me
+accessibility option for screen readers (if html is written riht it wont matter to have a separate version)
+perhaps something similar to the codecademy site lay out with a sidebar showing all the projects and a main window diplaying either code or front end(for web sites) or an ide to run code from within the site (for programming things
+
+Info by page
+
+!index
+name and summary in header
+nav for different pages
+-web design
+-programming
+-about me/contact
+
+!about
+summary of goals and objectives
+link to contact page
+
+!programming + !webdesign
+link to all projects
+links o individual projects
+
+!individual projects page
+sidebar with description
+main window same as all projects page
+link to go back and link to view more projects
+(yay thats like 6 new pages i have to make)
+
+!projects page
+side bar with each project
+main window displaying either code or webpage
+tabs to naviage back and forth in main window
+drop down for different types of code
+gets info and displays
+
+//ALL DONE//
+
+CSS
+Work out how to get everything where it needs to be on the page
+maybe using grids
+
+needs to take up whole page with rows
+
+i think im having problems with creating a grid that spans the whole page because my gid container is within another element but i cant make the parent element the container as i wont be able to style the list items how id like. i cant discard the use of an unordered list in the nav as that would diminish accessibility so i need to find a way around this. 
+ive tried making the nav span the whole page but this isnt working
+
+grids/ flex for every level to position and then make nav bigger/ span more rows to take up more of the page
+
+//SORTED (changed body display to flexbox)
+//UNSORTED 
+the only ay i can overlat the header is with grids but that means the nav ul doesnt take up the whole page like i want it too
+
+//SORTED AGAIN
+It doesnt need to because once ive gotten rid of the background colours im using for positioning, i wont matter if it stretches to the edge of the page
+
+proj nav pages 7r 8c
+
+Need to design about me page and then i can commit styling
+
+grow back buttons on hover java
+
+
+
+
